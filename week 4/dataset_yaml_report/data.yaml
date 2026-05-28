@@ -1,0 +1,5 @@
+train: ../custom_dataset/images/train
+val: ../custom_dataset/images/val
+
+nc: 7
+names: ['person','car','bus','truck','bike','bicycle','motorbike']

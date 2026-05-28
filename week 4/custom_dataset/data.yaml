@@ -1,0 +1,11 @@
+path: ../custom_dataset
+train: images/train
+val: images/val
+
+names:
+  0: person
+  1: car
+  2: bus
+  3: truck
+  4: bicycle
+  5: motorbike
